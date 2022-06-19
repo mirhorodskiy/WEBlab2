@@ -1,0 +1,33 @@
+.square{
+    width: 70px;
+    height: 70px;
+    border:1px solid black;
+    border-radius: 10px;
+    position:absolute;
+}
+
+.yellow{
+    background-color: yellow;
+    transform: rotate(15deg);
+    top:90px;
+}
+
+.pink{
+    background-color: rgb(224, 32, 122);
+    transform: rotate(-15deg);
+    top:90px;
+    left:88px;
+}
+
+.white{
+    background-color: azure;
+    transform: rotate(45deg);
+    left:44px;
+    top:16px
+}
+
+.picture{
+    position: relative;
+}
+
+
